@@ -46,4 +46,4 @@ python main.py
 
 Autor: Wellinton Schweitzer
 
-Contato: schweitzerwellinton@gmail.com
+Contato: wellintonschweitzer.2019@alunos.utfpr.edu.br
