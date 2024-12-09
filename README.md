@@ -45,10 +45,10 @@ Este projeto foi desenvolvido como um trabalho acadêmico no curso de **Ciência
 
 5. *Veja os gráficos: O programa exibirá gráficos com os resultados da interpolação, derivada e integral*.
 
-#Contribuição#
+# Contribuição #
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-#Licença#
+# Licença #
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
 
 
