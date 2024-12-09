@@ -1,6 +1,6 @@
 import csv
 import numpy as np
-import plot_utils
+import plot_utils as plt
 
 def has_header(first_row): 
     if all(c.isdigit() for c in first_row):
