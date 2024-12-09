@@ -1,4 +1,4 @@
-#Processamento de Dados com Interpolação, Derivada e Integral
+# Processamento de Dados com Interpolação, Derivada e Integral
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico no curso de **Ciências da Computação**, com o objetivo de processar dados de um arquivo CSV, realizando interpolação, cálculo de derivada e integral, e plotando os resultados.
 
