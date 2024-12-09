@@ -42,5 +42,6 @@ python main.py
 
 5. *Veja os gráficos: O programa exibirá gráficos com os resultados para a opção selecionada*.
 
+
 Autor: Wellinton Schweitzer
 Contato: schweitzerwellinton@gmail.com
