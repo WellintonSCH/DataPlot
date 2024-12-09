@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como um trabalho acadêmico no curso de **Ciência
 - **Carregamento de dados**: Recebe um arquivo CSV com duas colunas representando os dados de entrada.
 - **Interpolação**: Gera uma função contínua que ajusta os pontos fornecidos.
 - **Derivada**: Calcula a derivada da função interpolada.
-- **Integral**: Calcula a integral da função interpolada.
+- **Integral**: Calcula a integral da função interpolada no intervalo definido.
 - **Visualização gráfica**: Plota os dados originais, a interpolação, a derivada e a integral em gráficos.
 
 ## Tecnologias Utilizadas
