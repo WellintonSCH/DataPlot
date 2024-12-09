@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como um trabalho acadêmico no curso de **Ciência
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/WellintonSCH/DataPlot.git
    
 2. Instale as dependências:
    ```
