@@ -27,7 +27,7 @@ Este projeto foi desenvolvido como um trabalho acadêmico no curso de **Ciência
    
 2. *Instale as dependências*:
 ```
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
    
 3. *Gere dados de teste: Execute o script que cria um arquivo CSV de exemplo*:
@@ -38,8 +38,8 @@ python generate_test_data.py
 
 4. *Execute o script principal: Use o arquivo gerado ou forneça o seu arquivo CSV*:
 ```
-  Copiar código
-  python main.py
+Copiar código
+python main.py
 ```
 
 5. *Veja os gráficos: O programa exibirá gráficos com os resultados da interpolação, derivada e integral*.
