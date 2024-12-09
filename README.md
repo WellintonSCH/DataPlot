@@ -20,10 +20,28 @@ Este projeto foi desenvolvido como um trabalho acadêmico no curso de **Ciência
 
 ## Como Executar
 
-1. **Clone o repositório**:
-   ```bash
+1. *Clone o repositório*:
+   ```
    git clone https://github.com/WellintonSCH/DataPlot.git
+    ```
    
-2. Instale as dependências:
+2. *Instale as dependências*:
    ```
     pip install -r requirements.txt
+    ```
+   
+3. *Gere dados de teste: Execute o script que cria um arquivo CSV de exemplo*:
+ ```
+  Copiar código
+  python generate_test_data.py
+ ```
+
+4. *Execute o script principal: Use o arquivo gerado ou forneça o seu arquivo CSV*:
+
+  ```
+    Copiar código
+    python main.py
+ ```
+
+5. *Veja os gráficos: O programa exibirá gráficos com os resultados da interpolação, derivada e integral*.
+
